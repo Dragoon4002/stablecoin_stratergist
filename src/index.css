@@ -1,0 +1,21 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 20px;
+
+  --c1:#ffffff;
+  --c2:#2255ff;
+  --c3:#223399;
+}
+
+h1{font-size: 3rem;font-weight: 800;}
+h2{font-size: 2rem;font-weight: 500;}
+h3{font-size: 1rem;font-weight: 300;}
+h4{font-size: 0.5rem;font-weight: 200;}
+h5{font-size: 0.25rem;font-weight: 100;}
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
